@@ -1,0 +1,58 @@
+<svg width="292" height="285" viewBox="0 0 292 285" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M272.933 85.6596C280.698 103.494 284.727 122.73 284.77 142.181L267.107 142.221C267.069 125.183 263.54 108.333 256.738 92.7109L272.933 85.6596Z" fill="#2A9A21"/>
+    <path d="M243.067 41.8189C257.444 56.1956 268.575 73.4844 275.711 92.5224L259.172 98.7223C252.92 82.0461 243.17 66.9019 230.577 54.3088L243.067 41.8189Z" fill="#61DF56"/>
+    <path d="M199.346 12.005C217.173 19.7865 233.217 31.138 246.487 45.3595L233.573 57.4101C221.949 44.9529 207.895 35.0095 192.28 28.1934L199.346 12.005Z" fill="#FFF500"/>
+    <path d="M142.385 0.115234C162.89 0.115235 183.152 4.54383 201.787 13.0981L194.418 29.1509C178.095 21.6578 160.346 17.7785 142.385 17.7785V0.115234Z" fill="#FF9900"/>
+    <path d="M85.3349 12.0443C103.324 4.17742 122.746 0.115993 142.38 0.115234L142.381 17.7785C125.182 17.7792 108.17 21.3368 92.4121 28.2278L85.3349 12.0443Z" fill="#FF6B00"/>
+    <path d="M41.7037 41.8189C54.6065 28.9161 69.8692 18.6137 86.6611 11.4723L93.5739 27.7268C78.8651 33.9822 65.4958 43.0066 54.1935 54.3088L41.7037 41.8189Z" fill="#B84F03"/>
+    <path d="M10.936 87.7771C18.4118 69.8198 29.4877 53.5845 43.4804 40.0731L55.7498 52.7795C43.493 64.6148 33.7911 78.836 27.2427 94.5658L10.936 87.7771Z" fill="#B82E03"/>
+    <path d="M0 142.501C1.70049e-06 123.049 3.98547 103.804 11.7105 85.9525L27.9211 92.9675C21.1544 108.605 17.6633 125.462 17.6633 142.501H0Z" fill="#FF0000"/>
+    <g opacity="0.2">
+        <path d="M252.972 94.3504C259.55 109.458 262.963 125.753 263 142.23L202.692 142.365C202.674 134.127 200.968 125.979 197.679 118.425L252.972 94.3504Z" fill="#2A9A21"/>
+        <path d="M227.673 57.2129C239.851 69.3914 249.28 84.0368 255.325 100.164L198.855 121.332C195.833 113.269 191.118 105.946 185.029 99.8567L227.673 57.2129Z" fill="#61DF56"/>
+        <path d="M190.636 31.9576C205.738 38.5492 219.328 48.1652 230.57 60.2121L186.478 101.356C180.857 95.3328 174.061 90.5248 166.511 87.229L190.636 31.9576Z" fill="#FFF500"/>
+        <path d="M142.385 21.8857C159.755 21.8857 176.919 25.6372 192.705 32.8835L167.545 87.692C159.652 84.0688 151.07 82.1931 142.385 82.1931V21.8857Z" fill="#FF9900"/>
+        <path d="M94.0577 31.9909C109.296 25.3268 125.748 21.8864 142.381 21.8857L142.383 82.1931C134.067 82.1934 125.841 83.9136 118.221 87.2456L94.0577 31.9909Z" fill="#FF6B00"/>
+        <path d="M57.0977 57.213C68.0277 46.283 80.9568 37.5558 95.1812 31.5063L118.783 87.0034C111.671 90.0281 105.206 94.3917 99.7414 99.8567L57.0977 57.213Z" fill="#B84F03"/>
+        <path d="M31.0344 96.1442C37.3671 80.9325 46.7495 67.1796 58.6027 55.734L100.494 99.1172C94.5673 104.84 89.8762 111.716 86.7098 119.322L31.0344 96.1442Z" fill="#B82E03"/>
+        <path d="M21.7705 142.5C21.7705 126.023 25.1466 109.721 31.6905 94.5985L87.0378 118.549C83.7659 126.111 82.0778 134.262 82.0778 142.5H21.7705Z" fill="#FF0000"/>
+    </g>
+    <defs>
+        <filter id="filter0_di_720_3236" x="126.564" y="125.707" width="32.1279" height="33.5883" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dy="-0.486787"/>
+            <feComposite in2="hardAlpha" operator="out"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.1425 0 0 0 0 0.1425 0 0 0 0 0.158333 0 0 0 0.5 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_720_3236"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_720_3236" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dy="0.973575"/>
+            <feGaussianBlur stdDeviation="1.21697"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+            <feBlend mode="normal" in2="shape" result="effect2_innerShadow_720_3236"/>
+        </filter>
+        <filter id="filter1_d_720_3236" x="122.183" y="120.062" width="40.8904" height="40.8904" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dy="-1.74983"/>
+            <feGaussianBlur stdDeviation="4.86787"/>
+            <feComposite in2="hardAlpha" operator="out"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_720_3236"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_720_3236" result="shape"/>
+        </filter>
+        <linearGradient id="paint0_linear_720_3236" x1="220.291" y1="70.5609" x2="209.107" y2="80.8528" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#646472"/>
+            <stop offset="1" stop-color="#101012"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear_720_3236" x1="142.628" y1="131.548" x2="142.628" y2="152.967" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F0F0F0"/>
+            <stop offset="0.0001" stop-color="#F2F2F2"/>
+            <stop offset="1" stop-color="#B5B5B5"/>
+        </linearGradient>
+    </defs>
+    <text stroke="#000" transform="matrix(1.1033579111099243,0,0,0.8139539361000061,-1.7054055333137512,30.614269303268884) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_22" y="170.01026" x="10.43676" stroke-width="0" fill="#000000">0</text>
+    <text stroke="#000" transform="matrix(0.8518301248550415,0,0,0.7757274508476257,31.63426834344864,32.98245819374824) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_23" y="170.24224" x="232.28309" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">750 +</text>
+</svg>

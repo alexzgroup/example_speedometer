@@ -1,0 +1,18 @@
+#rating_speedometer {
+    position: relative;
+    margin: auto;
+    max-width: max-content;
+}
+
+#rating_arrow {
+    left: calc(50% - 25px);
+    margin: auto;
+    position: absolute;
+    top: 40px;
+    display: inline-block;
+    transform-origin: bottom center;
+    transition-duration: 1s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    transform: rotate(-90deg);
+}
